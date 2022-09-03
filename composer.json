@@ -1,0 +1,17 @@
+{
+    "name": "nelwhix/php-archive-tool",
+    "description": "A simple tool for zipping and unzipping files and folders in webservers",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nelwhix\\PhpArchiveTool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nelwhix",
+            "email": "nelsonisioma1@gmail.com"
+        }
+    ],
+    "require": {}
+}
